@@ -1,19 +1,13 @@
 # internal files
 uploads/
 outputs/
-md/
 
 # Environment variables
 .env
-backend/.env
-frontend/.env
 
 # python environment
 venv/
-backend/venv
 
 # Common ignores
 node_modules/
-backend/node_modules/
-frontend/node_modules/
 package-lock.json
